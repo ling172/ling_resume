@@ -62,16 +62,16 @@
     animation-name: container;
     animation-duration: 10s;
     animation-iteration-count: infinite;
-    width: 30%;
+    width: 70%;
     background-color: #98C1D9;
     border-radius: 20px;
 }
 
-.css {
+.vue {
     animation-name: container;
     animation-duration: 10s;
     animation-iteration-count: infinite;
-    width: 45%;
+    width: 40%;
     background-color: #98C1D9;
     border-radius: 20px;
 }
@@ -89,17 +89,16 @@
     animation-name: container;
     animation-duration: 10s;
     animation-iteration-count: infinite;
-    width: 45%;
+    width: 50%;
     background-color: #98C1D9;
     border-radius: 20px;
 }
 
-.word {
+.sql {
     animation-name: container;
     animation-duration: 10s;
-        animation-iteration-count: infinite;
-
-    width: 55%;
+    animation-iteration-count: infinite;
+    width: 60%;
     background-color: #98C1D9;
     border-radius: 20px;
 }
