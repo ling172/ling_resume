@@ -1,0 +1,31 @@
+.contactback {
+    background-color: rgba(255, 255, 255, 0.4);
+    height: 100px;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contactback a{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin: 0 60px;
+}
+.contactback .icon{
+    width: 100%;
+    height: 100%;
+}
+footer {
+    text-align: center;
+    background-color: #bcb8b1;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+footer a {
+    color: #463f3a;
+}
