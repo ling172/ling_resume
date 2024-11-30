@@ -62,7 +62,7 @@
     animation-name: container;
     animation-duration: 10s;
     animation-iteration-count: infinite;
-    width: 70%;
+    width: 75%;
     background-color: #98C1D9;
     border-radius: 20px;
 }
@@ -76,11 +76,11 @@
     border-radius: 20px;
 }
 
-.ppt {
+.asp {
     animation-name: container;
     animation-duration: 10s;
     animation-iteration-count: infinite;
-    width: 70%;
+    width: 50%;
     background-color: #98C1D9;
     border-radius: 20px;
 }
